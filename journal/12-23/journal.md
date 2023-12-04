@@ -1,0 +1,18 @@
+# TODO
+- [ ] install i3 without nixos, or use nixos with crypt of disk, and lina derivated
+
+# journal
+
+## Mon 04-12-23
+Trying to make work i3 (failed -> work home), installing [mandatory](https://gitlab.inria.fr/i4s-works/welcome-package/-/blob/main/Day1.md?ref_type=heads) software
+
+- [x] installing Deja Dup and configuring
+- [x] installing [Atempo Lina](https://doc-si.inria.fr/display/SU/Doc+Sauvegarde+Atempo#tab-Linux) and configuring
+
+## fri 01-12-23
+Arrival to inria, setup of the first laptop given (Dell precision 7560) :
+- 11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz
+- RTX A3000 Mobile
+
+Add Ubuntu and crypt the disk
+
