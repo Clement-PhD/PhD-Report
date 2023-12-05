@@ -4,6 +4,7 @@
 - [ ] Repo gitlab ?
 - [ ] See hyperAst and understand how it works
 - [ ] See the differents vulnerabilities catalog
+- [ ] read Model-based security vulnerabilities
 
 # Goal
 
