@@ -2,9 +2,11 @@
 
 - [ ] install i3 without nixos, or use nixos with crypt of disk, and lina derivated
 - [ ] Repo gitlab ?
-- [ ] See hyperAst and understand how it works
+- [ ] See hyperAst and understand how it works (make it work)
+- [ ] See alternative to hyperAst
 - [ ] See the differents vulnerabilities catalog
 - [ ] read Model-based security vulnerabilities
+- [ ] Access to software heritage and exploration
 
 # Goal
 
