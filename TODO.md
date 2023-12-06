@@ -5,7 +5,10 @@
 - [ ] See hyperAst and understand how it works (make it work)
 - [ ] See the differents vulnerabilities catalog
 - [ ] read Model-based security vulnerabilities
-- [ ] Access to software heritage and exploration
+
+## Software heritage TODO
+- [ ] check the [tools](https://docs.softwareheritage.org/devel/api-reference.html)
+- [ ] check pagination of the endpoint origin
 
 # Goal
 
