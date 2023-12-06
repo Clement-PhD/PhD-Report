@@ -8,7 +8,9 @@
 
 ## Software heritage TODO
 - [ ] check the [tools](https://docs.softwareheritage.org/devel/api-reference.html)
+- [ ] make a working instance of local software heritage (first for playground, second for experimentation before runing on the real one ?)
 - [ ] check pagination of the endpoint origin
+- [ ] check metadata (result of visit enpoint)
 
 # Goal
 
