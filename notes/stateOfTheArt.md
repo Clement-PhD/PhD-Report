@@ -12,7 +12,7 @@ Dataset : https://github.com/SecretPatch/Dataset
 
 etude sur la modelisation de faille de securité : https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4159681
 
-> very simple models state/transition and automatic testing. This is a bit abstract
+> very simple models state/transition and automatic testing. This is a bit abstract (no real application)
 
 Zhao, Jingling, Kunfeng Xia, Yilun Fu, and Baojiang Cui. “An AST-Based Code Plagiarism Detection Algorithm.” In 2015 10th International Conference on Broadband and Wireless Computing, Communication and Applications (BWCCA), 178–82. Krakow, Poland: IEEE, 2015. https://doi.org/10.1109/BWCCA.2015.52.
 
@@ -21,3 +21,7 @@ Zhao, Jingling, Kunfeng Xia, Yilun Fu, and Baojiang Cui. “An AST-Based Code Pl
 HyperAst ([paper](https://dl.acm.org/doi/abs/10.1145/3551349.3560423), [code](https://github.com/HyperAST/HyperAST))
 
 > use AST, add time component, add metadata
+
+Yang et al., “Asteria.”
+
+> Use Ast and dl (tree-LSTM) to detect security vulnerability, [code](https://github.com/Asteria-BCSD/Asteria)
