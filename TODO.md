@@ -6,8 +6,9 @@
 
 - [ ] Repo gitlab ?
 - [ ] See hyperAst and understand how it works (make it work)
-- [ ] See the differents vulnerabilities catalog
-- [ ] read Model-based security vulnerabilities
+- [ ] read Model-based security vulnerabilities paper
+- [ ] explore research question (rq): Joern/tree-sitter > compare perf/time limit with hyperAst, Maybe make small experiment with one known CVE
+- [ ] explore rq : attack on supply chain : analyse of the dependance of open source project
 
 ## Software heritage TODO
 - [ ] check the [tools](https://docs.softwareheritage.org/devel/api-reference.html)
