@@ -35,3 +35,7 @@ the [API](https://archive.softwareheritage.org/api/), a local [instance](https:/
 Pietri, Spinellis, and Zacchiroli, “The Software Heritage Graph Dataset.”
 
 > Make a DAG of Software heritage (on the metadata and the files), make query like "what is the most used name"
+
+Romain Lefeuvre et al., “Fingerprinting and Building Large Reproducible Datasets,” in Proceedings of the 2023 ACM Conference on Reproducibility and Replicability (ACM REP ’23: 2023 ACM Conference on Reproducibility and Replicability, Santa Cruz CA USA: ACM, 2023), 27–36, https://doi.org/10.1145/3589806.3600043.
+
+> Make a tool to request more easily the graph of swh, and create dataset
