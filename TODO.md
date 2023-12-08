@@ -13,6 +13,7 @@
 - [ ] explore rq : attack on supply chain : analyse of the dependance of open source project > Idea of experiments : extract package name + version from mitre, store this in a structure optimized for search (hashmap + memory ?), use the tool from romain to extract the file related to the packet manager, compare all the dependencies with the list. Challenge : extraction of CVE can be tricky, analyse of first dependencies are easy, but the link with the dependencie of the dependencie no.
 
 - [ ] find and test google tool to search dependencies of dependencies
+- [ ] [backstabber's knife collection](https://dasfreak.github.io/Backstabbers-Knife-Collection/) (CVE dataset), but need mail to have accesss
 - [ ] try following [mthod](https://github.com/fabric8-analytics/fabric8-analytics-vscode-extension) to have dependencies
 - [ ] try [snyk](https://security.snyk.io/vuln) and [retire.js](https://github.com/RetireJS/retire.js) (Aman Anupam et al., “Analysis of Open Source Node.Js Vulnerability Scanners,” IRJET 07, no. 05 (May 2020).)
 - [ ] try [google tool](https://cloud.google.com/blog/topics/developers-practitioners/using-the-open-source-insights-dataset?hl=en)
