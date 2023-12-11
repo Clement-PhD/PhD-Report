@@ -21,8 +21,8 @@
 ## Software heritage TODO
 
 
-- [ ] make work the [tool](https://github.com/RomainLefeuvre/DatasetBuilder/tree/master) of romain
 - [ ] Try to get all the file with name "requirements.txt" (pip dependancies) and compare time execution with number of node of the swh full instance
+- [ ] Have access to the online graph api (need a special account) and then finalise the experiences (time to count and extract all snapshots nodes, IE, repo)
 
 
 - [ ] make a working instance of local software heritage (first for playground, second for experimentation before runing on the real one ?) > suspend now, exploration on the graph
