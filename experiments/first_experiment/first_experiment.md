@@ -16,6 +16,7 @@ Protocole :
 # TODO
 
 - [ ] Find the CVE
+- [ ] Use [openCVE](https://docs.opencve.io/installation/manual/) to build the postgreesql database and keep only entry with link with `patch` tag and an url matching a pull request 
 - [ ] Research on how the AST are represented
 - [ ] Research on how to compare AST
 
@@ -26,4 +27,5 @@ Use the following [cite](https://www.opencve.io/cve?vendor=rust-lang) (Scrap 3 s
 > [Here](https://github.com/opencve/opencve/blob/master/opencve/commands/imports/cve.py) is the CVE scapping from NVD, [here](https://github.com/opencve/opencve/blob/master/opencve/commands/imports/cwe.py) the scrapping from mitre
 
 Candidate :
-- [This](https://www.opencve.io/cve/CVE-2019-9169) one is a C vulnerability in GLIBC and in a if (good AST)
+- [This](https://www.opencve.io/cve/CVE-2019-9169) one is a C vulnerability in [GLIBC](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://sourceware.org/git/glibc) and in a if (good AST)
+- [This](https://www.opencve.io/cve/CVE-2023-0687) one is a C vulnerability in [GLIBC](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://sourceware.org/git/glibc) and concern two pointer allocation

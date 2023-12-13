@@ -5,7 +5,7 @@
 
 ## Experiment 1
 
-See [TODO](experiments/first_experiment/first_experiment.md)
+See [TODO](/experiments/first_experiment/first_experiment.md)
 
 
 
